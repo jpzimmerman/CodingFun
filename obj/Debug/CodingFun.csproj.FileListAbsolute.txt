@@ -1,0 +1,7 @@
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\bin\Debug\CodingFun.exe.config
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\bin\Debug\CodingFun.exe
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\bin\Debug\CodingFun.pdb
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\obj\Debug\CodingFun.csprojAssemblyReference.cache
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\obj\Debug\CodingFun.csproj.CoreCompileInputs.cache
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\obj\Debug\CodingFun.exe
+C:\Users\JZimmerman\source\repos\CodingFun\CodingFun\obj\Debug\CodingFun.pdb
